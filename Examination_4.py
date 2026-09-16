@@ -7,3 +7,15 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 color = input()
+
+if = int("red")
+print ("STOP")
+
+elif = int("yellow")
+print ("SLOW")
+
+elif = int("green")
+print ("GO")
+
+else = int("not show")
+print ("INVALID")
