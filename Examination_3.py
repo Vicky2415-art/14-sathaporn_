@@ -8,8 +8,8 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 password = input()
 
-if (" password => 8 ")
+if password (=> 8)
 print (" PASS ")
 
-else (" password <= 8")
+else password (<= 8)
 print (" TOO SHORT ")
