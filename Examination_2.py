@@ -9,7 +9,7 @@
 A = int(input())
 B = int(input())
 
-if = A > B
+if = int(A > B)
 print ("A is greater")
 
 elif = int(A < B)
