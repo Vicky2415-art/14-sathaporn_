@@ -9,11 +9,11 @@
 A = int(input())
 B = int(input())
 
-if = int("A is greater")
-print (" A > B")
+if = A > B
+print ("A is greater")
 
-elif = int("B is greater") 
-print (" A < B ")
+elif = int(A < B)
+print ("B is greater")
 
-else = int("B is greater or equal") 
-print (" A <= B")
+else = int(A <= B) 
+print ("B is greater or equal")
