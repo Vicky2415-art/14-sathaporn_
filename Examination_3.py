@@ -7,3 +7,9 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 password = input()
+
+if (" password => 8 ")
+print (" PASS ")
+
+else (" password <= 8")
+print (" TOO SHORT ")
