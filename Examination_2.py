@@ -6,5 +6,14 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+A = int(input())
+B = int(input())
+
+if = int("A is greater")
+print (" A > B")
+
+elif = int("B is greater") 
+print (" A < B ")
+
+else = int("B is greater or equal") 
+print (" A <= B")
