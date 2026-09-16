@@ -8,14 +8,14 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 color = input()
 
-if = int(input("red"))
+if = color (input("red"))
 print ("STOP")
 
-elif = int(input("yellow"))
+elif = color (input("yellow"))
 print ("SLOW")
 
-elif = int(input("green"))
+elif = color (input("green"))
 print ("GO")
 
-else = int(int("not show"))
+else = color (int("not show"))
 print ("INVALID")
